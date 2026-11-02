@@ -1,0 +1,3 @@
+USE sen307_11474;
+SHOW TABLES;
+DESCRIBE Student;
